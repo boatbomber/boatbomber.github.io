@@ -15,7 +15,6 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: rgb(50, 130, 175);
 }
 a:hover {
